@@ -2,9 +2,9 @@
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning - Use-Cases",
+    "title": "Creating - Use-Cases",
     "section": "",
-    "text": "Table of contents\n\nLearning - Use Cases"
+    "text": "Table of contents\n\nCreating - Use Cases"
   },
   {
     "objectID": "about.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning - Use-Cases",
+    "title": "Creating - Use-Cases",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster XYZ\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master AAA XYZ)\n  A[Learner] --> C(UC: Master XXX XYZ)\n  A[Learner] --> D(UC: Master YYY XYZ)\n  A[Learner] --> E(UC: Master ZZZ XYZ)  \n  B --> F{Abstract UC: Master XYZ}\n  C --> F{Abstract UC: Master XYZ}\n  D --> F{Abstract UC: Master XYZ}\n  E --> F{Abstract UC: Master XYZ}"
   },
