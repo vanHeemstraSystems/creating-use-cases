@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning - Use-Cases"
+  title: "Creating - Use-Cases"
   navbar:
     left:
       - href: index.qmd
