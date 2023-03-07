@@ -6,6 +6,8 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+This is a part of "Creating" at <https://vanheemstrasystems.github.io/creating/>
+
 # Master XYZ
 
 ```{mermaid}
