@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Creating - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster XYZ\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master AAA XYZ)\n  A[Learner] --> C(UC: Master XXX XYZ)\n  A[Learner] --> D(UC: Master YYY XYZ)\n  A[Learner] --> E(UC: Master ZZZ XYZ)  \n  B --> F{Abstract UC: Master XYZ}\n  C --> F{Abstract UC: Master XYZ}\n  D --> F{Abstract UC: Master XYZ}\n  E --> F{Abstract UC: Master XYZ}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThis is a part of “Creating” at https://vanheemstrasystems.github.io/creating/\n\nMaster XYZ\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master AAA XYZ)\n  A[Learner] --> C(UC: Master XXX XYZ)\n  A[Learner] --> D(UC: Master YYY XYZ)\n  A[Learner] --> E(UC: Master ZZZ XYZ)  \n  B --> F{Abstract UC: Master XYZ}\n  C --> F{Abstract UC: Master XYZ}\n  D --> F{Abstract UC: Master XYZ}\n  E --> F{Abstract UC: Master XYZ}"
   },
   {
     "objectID": "xyz.html",
