@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning - Use Cases](README.md)
+* [Creating - Use Cases](README.md)
